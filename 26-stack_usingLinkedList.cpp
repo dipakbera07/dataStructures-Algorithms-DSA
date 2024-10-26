@@ -56,9 +56,8 @@ node* push(node* top,int data){
     top=ptr;
     return top;
     }
-
-
-//********       pop operation in stack using LinkedList     ************** */
+    
+//********pop operation in stack using LinkedList     ************** */
 node* pop(node* top){
     node* ptr=top;
     top=ptr->next;

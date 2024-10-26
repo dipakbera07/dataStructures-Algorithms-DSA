@@ -1,5 +1,6 @@
-cout<<"After pop operation:"<<endl;
-    top=pop(top);
-    display(top);
-    isFull(top);
-    peek(top,3);
+if(poped_element==stack.top){
+            //     return 1;
+            // }
+            // else{
+            //     return 0;
+            // }
